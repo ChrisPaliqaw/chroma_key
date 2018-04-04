@@ -23,8 +23,6 @@ s = hand_hsv[:, :, 1]
 v = hand_hsv[:, :, 2]
 #print(np.max(v))
 
-
-
 f, (ax1, ax2, ax3) = plt.subplots(1,3, figsize=(10,5))
 ax1.set_title("H")
 ax1.imshow(h)
