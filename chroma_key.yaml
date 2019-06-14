@@ -6,17 +6,17 @@ dependencies:
   - appnope=0.1.0=py36hf537a9a_0
   - asn1crypto=0.24.0=py36_0
   - attrs=19.1.0=py36_1
-  - babel=2.6.0=py36_0
+  - babel=2.7.0=py_0
   - backcall=0.1.0=py36_0
   - blas=1.0=mkl
   - bleach=3.1.0=py36_0
   - bzip2=1.0.6=h1de35cc_5
-  - ca-certificates=2019.1.23=0
+  - ca-certificates=2019.5.15=0
   - cairo=1.14.12=hc4e6be7_4
   - certifi=2019.3.9=py36_0
   - cffi=1.12.3=py36hb5b8e2f_0
   - chardet=3.0.4=py36_1
-  - cryptography=2.6.1=py36ha12b0ac_0
+  - cryptography=2.7=py36ha12b0ac_0
   - cycler=0.10.0=py36hfc81398_0
   - decorator=4.4.0=py36_1
   - defusedxml=0.6.0=py_0
@@ -34,8 +34,8 @@ dependencies:
   - icu=58.2=h4b95b61_1
   - idna=2.8=py36_0
   - imagesize=1.1.0=py36_0
-  - intel-openmp=2019.3=199
-  - ipykernel=5.1.0=py36h39e3cac_0
+  - intel-openmp=2019.4=233
+  - ipykernel=5.1.1=py36h39e3cac_0
   - ipython=7.5.0=py36h39e3cac_0
   - ipython_genutils=0.2.0=py36h241746c_0
   - jasper=2.0.14=h636a363_1
@@ -58,27 +58,27 @@ dependencies:
   - libopencv=3.4.2=h7c891bd_1
   - libopus=1.3=h1de35cc_0
   - libpng=1.6.37=ha441bb4_0
-  - libprotobuf=3.7.1=hd9629dc_0
+  - libprotobuf=3.8.0=hd9629dc_0
   - libsodium=1.0.16=h3efe00b_0
   - libtiff=4.0.10=hcb84e12_2
   - libvpx=1.7.0=h378b8a2_0
   - libxml2=2.9.9=hab757c2_0
   - markupsafe=1.1.1=py36h1de35cc_0
-  - matplotlib=3.0.3=py36h54f8f79_0
+  - matplotlib=3.1.0=py36h54f8f79_0
   - mistune=0.8.4=py36h1de35cc_0
-  - mkl=2019.3=199
+  - mkl=2019.4=233
   - mkl_fft=1.0.12=py36h5e564d8_0
   - mkl_random=1.0.2=py36h27c97d8_0
   - nbconvert=5.5.0=py_0
   - nbformat=4.4.0=py36h827af21_0
   - ncurses=6.1=h0a44026_1
   - notebook=5.7.8=py36_0
-  - numpy=1.16.3=py36hacdab7b_0
-  - numpy-base=1.16.3=py36h6575580_0
+  - numpy=1.16.4=py36hacdab7b_0
+  - numpy-base=1.16.4=py36h6575580_0
   - numpydoc=0.9.1=py_0
   - olefile=0.46=py36_0
   - opencv=3.4.2=py36h6fd60c2_1
-  - openssl=1.1.1b=h1de35cc_1
+  - openssl=1.1.1c=h1de35cc_1
   - packaging=19.0=py36_0
   - pandas=0.24.2=py36h0a44026_0
   - pandoc=2.2.3.2=0
@@ -95,7 +95,7 @@ dependencies:
   - ptyprocess=0.6.0=py36_0
   - py-opencv=3.4.2=py36h7c891bd_1
   - pycparser=2.19=py36_0
-  - pygments=2.4.0=py_0
+  - pygments=2.4.2=py_0
   - pyopenssl=19.0.0=py36_0
   - pyparsing=2.4.0=py_0
   - pyrsistent=0.14.11=py36h1de35cc_0
@@ -106,13 +106,13 @@ dependencies:
   - pytz=2019.1=py_0
   - pyzmq=18.0.0=py36h0a44026_0
   - readline=7.0=h1de35cc_5
-  - requests=2.21.0=py36_0
+  - requests=2.22.0=py36_0
   - send2trash=1.5.0=py36_0
   - setuptools=41.0.1=py36_0
   - simplegeneric=0.8.1=py36_2
   - six=1.12.0=py36_0
   - snowballstemmer=1.2.1=py36h6c7b616_0
-  - sphinx=2.0.1=py_0
+  - sphinx=2.1.0=py_0
   - sphinxcontrib=1.0=py36_1
   - sphinxcontrib-applehelp=1.0.1=py_0
   - sphinxcontrib-devhelp=1.0.1=py_0
@@ -120,7 +120,7 @@ dependencies:
   - sphinxcontrib-jsmath=1.0.1=py_0
   - sphinxcontrib-qthelp=1.0.2=py_0
   - sphinxcontrib-serializinghtml=1.1.3=py_0
-  - sphinxcontrib-websupport=1.1.0=py36_1
+  - sphinxcontrib-websupport=1.1.2=py_0
   - sqlite=3.28.0=ha441bb4_0
   - terminado=0.8.2=py36_0
   - testpath=0.4.2=py36_0
